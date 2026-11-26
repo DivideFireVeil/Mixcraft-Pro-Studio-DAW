@@ -1,0 +1,23 @@
+{
+  "repo": "mixcraft-professional-studio-daw",
+  "product": "Mixcraft Pro Studio DAW",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "mixcraft-pro-studio-daw",
+    "mixcraft-studio",
+    "mixcraft-studio-daw",
+    "mixcraft-studio-pro",
+    "how-to-install-mixcraft-studio",
+    "how-to-setup-mixcraft-studio",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Mixcraft Pro Studio DAW"
+}
